@@ -1,7 +1,6 @@
 # 🎨 Random Background Color
 
 This is a fun mini JavaScript project that changes the background color of the web page every time you click a button.  
-It’s a simple yet cool way to practice **DOM manipulation**, **event handling**, and **random color generation** in JavaScript.
 
 ---
 
@@ -31,5 +30,5 @@ Created by **J** 💻
 ---
 
 ### 🔗 Try it out:
-👉 [Live Demo](#) *(add your live link once you deploy it)*  
+👉 [Live Demo](#) *(https://joyboy-koder.github.io/js-project-03-randomBackgroundColor/)*  
 
